@@ -10,7 +10,6 @@
   p {
     font-size: 18px;
     color: #9c9ea0;
-    margin: 30px 0;
   }
   
   img {
@@ -20,6 +19,8 @@
   }
   
   .logo {
+    width: 75px;
+    height: 75px;
     max-width: 80px;
     margin: 24px 20px;
     transition: transform 0.4s;
@@ -37,7 +38,6 @@
   }
   
   h1 {
-    font-family: 'Cinzel Decorative', sans-serif;
     font-size: 60px;
     font-weight: 400;
     margin-top: 0px ;
@@ -47,21 +47,16 @@
   
   h2 {
     font-size: 26px;
-    margin: 1rem 0;
-    padding-bottom: 0.5rem;
+    padding-bottom: 10px;
     border-bottom: 1px solid #444;
   }
   
-  h3 {
-    margin: 10px 0;
-    padding-bottom: 5px;
-    border-bottom: 1px solid #6a6262;
-  }
-  
   .container {
-    max-width: 800px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 40px;
+  }
+  .color{
+    color: #9c9ea0;
   }
  
   
